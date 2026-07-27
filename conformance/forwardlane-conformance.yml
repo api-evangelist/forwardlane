@@ -1,0 +1,23 @@
+generated: '2026-07-19'
+method: searched
+source: https://forwardlane.com/llms.txt
+standards:
+- id: soc2-type-ii
+  conforms: true
+  evidence: "Provider publicly states 'SOC 2 Type II certified' in https://forwardlane.com/llms.txt Key Differentiators"
+- id: byok-open-architecture
+  conforms: true
+  evidence: "Bring-your-own-key across any LLM, any cloud, any inference provider (llms.txt)"
+- id: quantum-safe-encryption
+  conforms: true
+  evidence: "Provider claims quantum-safe encryption (llms.txt Key Differentiators)"
+- id: oauth2
+  conforms: false
+  evidence: "No public OpenAPI or documented OAuth surface"
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: "No public API specification published"
+notes: >-
+  ForwardLane exposes no public developer API, OpenAPI, or docs surface (robots.txt
+  Disallow: /api/ points at an internal app API only). Conformance here captures the
+  provider's publicly published security/compliance posture, not an API contract.

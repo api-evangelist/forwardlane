@@ -1,0 +1,75 @@
+# ForwardLane — Signal Studio
+
+> Signal Studio is the decision intelligence platform by ForwardLane. It transforms enterprise data into auditable actions — not dashboards. Ask in natural language, get Next Best Actions with complete audit trails, in seconds instead of weeks.
+
+## What is Signal Studio?
+
+Signal Studio is an all-in-one decision intelligence platform that combines:
+- Semantic data layer mapping raw data to business concepts
+- Multi-agent AI orchestrating complex queries
+- Natural language conversational interface
+- Visual no-code signal builder
+- In-database AI processing (data never leaves your environment)
+- Complete audit trails for compliance
+
+## What is Decision Velocity?
+
+Decision Velocity is the speed from question to auditable action. Traditional BI delivers dashboards in 6-12 months. AI analytics delivers insights in 3-6 months. Decision Intelligence (Signal Studio) delivers decisions + actions in under 1 month.
+
+## Who uses Signal Studio?
+
+### Financial Services
+Distribution intelligence, advisor signals, client insights, portfolio optimization. $3.4 trillion in assets served. 8 years in Fortune 500 enterprise production.
+
+### Private Credit & Private Equity
+Deal pipeline intelligence, portfolio monitoring, investment committee decision support, LP reporting. Handles unstructured documents (CIMs, quarterly reports) that break traditional analytics.
+
+### Real Estate
+Deal flow optimization, portfolio analytics, tenant and resident intelligence across commercial, multifamily, and institutional residential (SFR/Build-to-Rent). Integrates with Yardi, RealPage, Entrata, CoStar.
+
+### Energy & Oil/Gas
+Rig performance analytics, emissions intelligence, customer insights, yield optimization, market intelligence. Deployed for enterprises like ADNOC.
+
+### Government
+Threat intelligence, cargo risk scoring, criminal network analysis, fraud detection, disaster response, vulnerability prioritization. Open architecture with BYOK — no vendor lock-in, unlike Palantir.
+
+## Pricing
+
+- Starter: $295/user/month (5-15 users)
+- Growth: $245/user/month (16-50 users)
+- Enterprise: $195/user/month (51-300+ users)
+- No setup fees. No implementation costs. Live in 1-2 weeks.
+
+## Key Differentiators
+
+- 8 years in enterprise production
+- $3.4 trillion in assets served
+- SOC 2 Type II certified
+- Azure IP Co-sell Ready
+- 2,700+ pre-built data connectors
+- In-database processing — data never moves
+- Quantum-safe encryption
+- BYOK (any LLM, any cloud, any inference provider)
+- 100M+ data points processed daily
+
+## Technology Partners
+Salesforce, Oracle, Snowflake, Microsoft, AWS
+
+## Company
+ForwardLane Technologies
+CEO: Nathan Stevenson
+Website: https://forwardlane.com
+Contact: sales@forwardlane.com
+
+## Links
+
+- Platform: https://forwardlane.com/platform
+- Financial Services: https://forwardlane.com/industries/financial-services
+- Private Markets: https://forwardlane.com/industries/private-markets
+- Real Estate: https://forwardlane.com/industries/real-estate
+- Energy: https://forwardlane.com/industries/energy
+- Government: https://forwardlane.com/industries/government
+- Pricing: https://forwardlane.com/pricing
+- What is Decision Intelligence?: https://forwardlane.com/resources/decision-intelligence
+- Signal Studio vs Palantir: https://forwardlane.com/compare/signal-studio-vs-palantir
+- Signal Studio vs Tableau & Power BI: https://forwardlane.com/compare/signal-studio-vs-tableau
