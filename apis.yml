@@ -48,7 +48,7 @@ tags:
 - Company
 - Decision Intelligence
 - Enterprise AI
-- Financial-Services
+- Financial Services
 - Private Markets
 - Natural Language Analytics
 - Compliance
@@ -62,6 +62,7 @@ tags_raw:
 - Natural Language Analytics
 - Compliance
 - Wealth Management
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
