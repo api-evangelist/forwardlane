@@ -64,6 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Forwardlane is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+ForwardLane Technologies builds Signal Studio, a decision intelligence platform that transforms enterprise data into auditable actions rather than dashboards. Users ask questions in natural language and receive Next Best Actions with complete audit trails in seconds, powered by a semantic data layer, multi-agent AI orchestration, a no-code signal builder, and in-database processing so data never leaves the customer environment. Validated across eight years of Fortune 500 production, Signal Studio serves financial services, private credit and private equity, real estate, energy and oil and gas, and government, with BYOK support for any LLM, cloud, or inference provider. Led by CEO Nathan Stevenson. ForwardLane exposes no public developer API surface; this profile captures the company's public identity and security posture for the API Evangelist network.
 
-Backed by: techstars — https://forwardlane.com/
+**Areas:** Company · Decision Intelligence · Enterprise AI · Financial Services · Private Markets · Natural Language Analytics · Compliance · Wealth Management
+
+## Forwardlane on APIs.io
+
+Everything profiled for Forwardlane is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/forwardlane/](https://apis.io/providers/forwardlane/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Forwardlane Domain Security](https://apis.io/security/forwardlane/forwardlane-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://forwardlane.com/)
+- [Pricing](https://forwardlane.com/pricing)
+
+## API Evangelist rating
+
+**Kin Score 9.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/forwardlane/](https://apis.io/providers/forwardlane/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Forwardlane: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/forwardlane/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
